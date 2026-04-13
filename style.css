@@ -84,7 +84,7 @@ nav, main, footer { position: relative; z-index: 1; }
 }
 
 .hero-label {
-  font-size: 11px;
+  font-size: 16px;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--green-bright);
@@ -116,7 +116,6 @@ nav, main, footer { position: relative; z-index: 1; }
 .section-label {
   font-size: 11px;
   letter-spacing: 0.1em;
-  text-transform: uppercase;
   color: var(--text-muted);
   margin-bottom: 2rem;
 }
